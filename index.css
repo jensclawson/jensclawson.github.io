@@ -84,8 +84,8 @@ button {
   border-radius: 50px 50px;
   box-shadow: 0px 5px;
   text-align: center;
-  margin: auto;
-  justify: center;
+  margin: 0 auto;
+ 
   
 }
  
