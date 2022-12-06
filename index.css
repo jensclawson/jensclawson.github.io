@@ -76,9 +76,9 @@ h2{
 }
 
 button {
-  height: 50px;
-  width: 200px;
-  display: flex;
+  color: #ff23ea;
+  height: 100px;
+  width: 400px;
   align-items: center;
   justify-content: center;
   cursor: pointer;
