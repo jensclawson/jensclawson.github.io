@@ -76,11 +76,10 @@ h2{
 }
 
 button {
-  color: #ff23ea;
-  background-color: #ffaaaa;
+  color: rgb(125, 52, 63);
+  background-color: rgb(170, 255, 242);
   height: 30px;
   width: 100px;
-  margin: auto;
   border: 2px solid yellowgreen;
   border-radius: 25px;
   text-decoration: none;
