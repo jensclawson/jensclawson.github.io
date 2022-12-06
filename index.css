@@ -83,6 +83,8 @@ h2{
   justify-content: center;
   cursor: pointer;
   font-weight: 500;
+  margin: auto;
+  padding: 100px;
 }
 
 .skeuomorphic {
