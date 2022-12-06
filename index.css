@@ -77,10 +77,10 @@ h2{
 
 button {
   color: #ff23ea;
-  height: 300px;
-  width: 1000px;
-  align-items: center;
-  justify-content: center;
+  background-color: #ffaaaa;
+  height: 30px;
+  width: 100px;
+  display: block;
   cursor: pointer;
   font-weight: 500;
   margin: auto;
